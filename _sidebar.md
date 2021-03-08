@@ -1,2 +1,1 @@
-- [Homepage](/)
-- [Campaigns](campaigns.md)
+[Information](/)

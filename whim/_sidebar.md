@@ -1,0 +1,3 @@
+- [Homepage](/whim/home.md)
+- [Campaigns](whim/campaigns.md)
+- [quality](/whim/quality.md)
